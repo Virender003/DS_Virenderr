@@ -1,0 +1,5 @@
+2025-07-09 22:42:16,942:ERROR:Error placing order: APIError(code=None): None
+2025-07-09 22:49:33,954:ERROR:Error placing order: APIError(code=None): None
+2025-07-09 22:50:14,121:ERROR:Error placing order: APIError(code=None): None
+2025-07-09 22:50:22,166:ERROR:Error placing order: APIError(code=None): None
+2025-07-09 22:50:28,580:ERROR:Error placing order: APIError(code=None): None
